@@ -1,0 +1,30 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.App__title {
+  flex: 1;
+}
+
+.App__gif-container {
+ flex: 2; 
+}
+
+.App__gif {
+  width: 100%;
+}
+
+.App__vote {
+  border: 1px solid #222;
+  border-radius: 1px;
+  margin-top: .5rem;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
+
+.App__vote--love { background-color: darkseagreen;  }
+.App__vote--hate { background-color: firebrick; }
+
+.App__gif-loading-container { width: 100%; height: 100%; }
