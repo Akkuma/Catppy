@@ -1,0 +1,2 @@
+body{margin:0;padding:0;font-family:sans-serif}.App{display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;height:100vh}.App__title{-ms-flex:1 1;flex:1 1}.App__gif-container{-ms-flex:2 1;flex:2 1}.App__gif{width:100%}.App__vote{border:1px solid #222;border-radius:1px;margin-top:.5rem;padding:1rem;font-size:1.5rem}.App__vote--love{background-color:#8fbc8f}.App__vote--hate{background-color:#b22222}.App__gif-loading-container{width:100%;height:100%}
+/*# sourceMappingURL=main.596c0433.css.map*/
